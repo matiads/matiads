@@ -17,12 +17,12 @@ I'm not a traditional developer. I come from marketing, and most of what I build
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white)
 
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
